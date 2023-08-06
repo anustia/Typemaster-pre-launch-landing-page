@@ -1,0 +1,68 @@
+/* first div*/
+html{
+	font-size: 10px;
+}
+body{
+	font-family: 'Barlow', sans-serif;
+    font-family: 'Hanken Grotesk', sans-serif;
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Red Hat Display', sans-serif;
+  }
+.container{
+max-width: 37,5rem;
+max-width: 100%;
+	
+}
+.button{
+	width: 100%;
+	width: 150px;
+	height: 48px;
+	background-color: #E8EFF2;
+	display: inline-block;
+	color: #162542;
+   font-size: 14px;
+  font-style: normal;
+  line-height: 26px; /* 162.5% */
+   text-transform: uppercase;
+   border: none;
+   padding: 11px, 13,5px;
+   border-radius: 8px;
+   margin: 23px 24px 64px 136px;
+
+     }.first_p{
+	color: #7B8BAD;
+    font-size: 1,6rem;
+    font-style: normal;
+    line-height: 2,6rem; /* 162.5% */
+    max-width: 32,7rem; 
+    }
+.logo{
+	margin: 2,7rem 13,6rem  6,4rem 2,4rem;
+}
+.keyboard_img{
+	width: 37,2rem;
+	height: 33,1rem;
+
+}
+h1{
+	width: 327px;
+	color: #162542;
+ font-size: 48px;
+font-style: normal;
+
+line-height: 48px;
+text-transform: uppercase;
+}
+
+
+  /* font weight*/
+  .font_500{
+  	font-weight: 500;
+  }
+  .font_700{
+  	font-weight: 700;
+  }
+  .font_900{
+  	font-weight: 900;
+  }
